@@ -1,0 +1,1 @@
+console.log("Olá! Minha aplicação está funcionando!");
